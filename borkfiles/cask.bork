@@ -8,16 +8,13 @@ ok brew brew-cask
 # Install desktop apps
 ok cask atom
 ok cask google-chrome
-ok cask gpgtools
 ok cask alfred
 ok cask dropbox
 ok cask sequel-pro
-ok cask nvalt
 ok cask appcleaner
-ok cask scrup
+ok cask fileshuttle
 ok cask virtualbox
 ok cask vlc
-ok cask mailbox
 
 # Quick Look plugins - https://github.com/sindresorhus/quick-look-plugins
 ok cask qlcolorcode
