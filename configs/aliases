@@ -3,7 +3,6 @@ alias ..="cd .."
 alias d="cd ~/Desktop"
 alias db="cd ~/Dropbox"
 alias h="cd ~"
-alias p="cd ~/Dropbox/Projects"
 alias s="cd ~/Sites"
 
 # Lists & Directorys
