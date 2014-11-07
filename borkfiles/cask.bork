@@ -16,6 +16,8 @@ ok cask fileshuttle
 ok cask virtualbox
 ok cask vlc
 ok cask miro-video-converter
+ok cask spotify
+ok cask sketch-beta
 
 # Quick Look plugins - https://github.com/sindresorhus/quick-look-plugins
 ok cask qlcolorcode
