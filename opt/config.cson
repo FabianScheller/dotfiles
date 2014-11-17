@@ -18,6 +18,7 @@
       'atom-alignment'
       'atom-color-highlight'
     ]
+    'audioBeep': false
   'exception-reporting':
     'userId': '7b5e9cc8-5e80-0adb-becc-f7440823c7d3'
   'release-notes':
@@ -39,3 +40,4 @@
     'enableUnderline': true
   'tree-view':
     'hideVcsIgnoredFiles': true
+  'emmet': {}

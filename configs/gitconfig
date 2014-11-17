@@ -21,7 +21,7 @@
 	name = Dominik Hofmann
 [core]
 	quotepath = false
-	excludesfile = /Users/mfr/.gitignore
+	excludesfile = /Users/dominik/.gitignore
 [color]
 	ui = true
 	branch = auto
