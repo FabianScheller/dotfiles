@@ -38,6 +38,4 @@
     'underline':
       'solid': false
     'enableUnderline': true
-  'tree-view':
-    'hideVcsIgnoredFiles': true
   'emmet': {}
