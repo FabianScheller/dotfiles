@@ -17,8 +17,8 @@
 	oops = commit --amend
   pu = !"git fetch origin -v; git fetch upstream -v; git merge upstream/master"
 [user]
-	email = dominik@ideenfrische.de
-	name = Dominik Hofmann
+	email = fabian@ideenfrische.de
+	name = Fabian Scheller
 [core]
 	quotepath = false
 	excludesfile = /Users/dominik/.gitignore
