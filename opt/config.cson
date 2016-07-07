@@ -1,42 +1,49 @@
 "*":
-  editor:
-    preferredLineLength: 1
-    softWrap: true
-    invisibles: {}
-    fontSize: 15
+  "atom-beautify":
+    _analyticsUserId: "a16214ef-4e66-4cbd-91a1-69c2d1f6bfca"
+  "autocomplete-plus": {}
   core:
+    audioBeep: false
     disabledPackages: [
       "atom-alignment"
       "atom-color-highlight"
+      "activate-power-mode"
+      "color-picker"
     ]
-    themes: [
-      "one-dark-ui"
-      "one-dark-syntax"
-    ]
-    audioBeep: false
+    excludeVcsIgnoredPaths: false
     ignoredNames: [
       ".DS_Store"
     ]
-    excludeVcsIgnoredPaths: false
+    themes: [
+      "one-dark-ui"
+      "firewatch-syntax"
+    ]
+  editor:
+    fontFamily: "Hack"
+    fontSize: 16
+    invisibles: {}
+    preferredLineLength: 1
+    showIndentGuide: true
+    softWrap: true
+    tabType: "soft"
+  emmet: {}
   "exception-reporting":
     userId: "7b5e9cc8-5e80-0adb-becc-f7440823c7d3"
-  "release-notes":
-    viewedVersion: "0.60.0"
-  welcome:
-    showOnStartup: false
-  metrics:
-    userId: "dfdcf7a9edf0c25603df4e067dca3e87503ad0fb"
-  "atom-beautify":
-    _analyticsUserId: "a16214ef-4e66-4cbd-91a1-69c2d1f6bfca"
   "file-types":
     html5: "text.html.php"
+  "git-history": {}
   "highlight-line":
+    enableUnderline: true
     underline:
       solid: false
-    enableUnderline: true
-  emmet: {}
-  "autocomplete-plus": {}
-  "tree-view": {}
+  metrics:
+    userId: "dfdcf7a9edf0c25603df4e067dca3e87503ad0fb"
+  "one-dark-ui": {}
   pigments:
     mergeColorDuplicates: true
+  "release-notes":
+    viewedVersion: "0.60.0"
   tabs: {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
