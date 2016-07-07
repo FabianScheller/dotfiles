@@ -1,7 +1,8 @@
+
+# Community Packeages
 atom-beautify
 autocomplete-plus
 bezier-curve-editor
-brogrammer-ui
 color-picker
 csscomb
 docblockr
@@ -9,10 +10,18 @@ emmet
 file-icons
 file-types
 git-history
+pigments
+valign
+
+# Themes
+brogrammer-ui
+firewatch-syntax
+flexible-ui
+genesis-ui
 monokai
 neutron-syntax
 neutron-ui
+seti-ui
 spacegray-atom-dark-syntax
 spacegray-dark-ui
-valign
 unity-ui
